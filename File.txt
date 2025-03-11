@@ -1,3 +1,5 @@
 Creating practise file for github rep
 Modified the File Created in GitHub.
 Changes are made to this text file
+Stimulated changes from Github
+Committed the changes.
